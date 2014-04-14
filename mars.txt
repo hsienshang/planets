@@ -1,2 +1,5 @@
 Mars is doing great.
+Mars is a red planet.
+Mars is fascinating.
+
 
